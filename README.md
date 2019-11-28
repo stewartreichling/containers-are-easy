@@ -1,16 +1,12 @@
 # Containers Are Easy
-A quick tutorial to help you get started with containers.
-
 By the end of this tutorial, you will have built an image from a small Node.js
-app and run that image as a container using Docker's `docker` command. While
-this tutorial uses a Node.js web app, you don't need to know any Node.js to
-understand this tutorial.
+app and run that image as a container using Docker. While this tutorial uses a
+Node.js web app, you don't need to know Node.js to understand the tutorial.
 
 ## Pre-requisites
 
 * We'll use [docker](https://www.docker.com/) to build an image for our app.
   After that, we'll use docker to run that image in a container.
-  
 * We'll use [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
   to get example code. 
 
