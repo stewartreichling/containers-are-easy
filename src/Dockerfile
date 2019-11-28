@@ -12,4 +12,4 @@ COPY . /usr/src/app/
 EXPOSE 8080
 
 # Runs the app when running the image
-CMD [ "node", "server.js" ]
+CMD [ "node", "/usr/src/app/server.js" ]
